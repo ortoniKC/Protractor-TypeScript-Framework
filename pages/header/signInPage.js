@@ -17,3 +17,4 @@ class SignIn {
         await this.#signInBtn.click()
     }
 }
+exports.SignIn = SignIn

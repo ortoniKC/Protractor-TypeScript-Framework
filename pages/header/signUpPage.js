@@ -26,7 +26,5 @@ class SignUp {
     }
 
 
-
-
-
 }
+exports.SignUp = SignUp
