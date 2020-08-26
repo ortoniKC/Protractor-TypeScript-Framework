@@ -3,6 +3,9 @@ const { SignUp } = require("../pages/header/signUpPage")
 const { browser } = require("protractor")
 const { Common } = require("../pages/common/common")
 
+// import
+const testData = require("../test-data/userInfo.json")
+
 // header
 const header = new Header()
 
@@ -21,26 +24,27 @@ describe("Sign Up - LetCode", () => {
         await browser.get("http://localhost:4200/")
         await header.clickSignUp()
     })
-    xit("TC001 To verify that user can sign up successfully", async () => {
-        await signUp.enterName("Koushik")
-        await signUp.enterEmail("koushik@letcode.in")
-        await signUp.enterPassword("pass1234")
+    it("TC001 To verify that user can sign up successfully", async () => {
+        await signUp.enterName(testData.signup.name)
+        await signUp.enterEmail(testData.signup.email)
+        await signUp.enterPassword(testData.signup.password)
         await signUp.clickTermAndCondition()
         await signUp.clickSignUp()
         await header.signOutIsDisplay()
+        await header.clickSignOut()
     })
     it("TC_002	To verify that sign up fail", async () => {
         await signUp.clickSignUp()
-        await common.validateToast("Error: The email address is badly formatted.")
+        await common.validateToast(testData.signup.invalid_email)
     })
     it("TC_003	To verify that sign up fail", async () => {
-        await signUp.enterEmail("koushik@letcode.in")
+        await signUp.enterEmail(testData.signup.email)
         await signUp.clickSignUp()
-        await common.validateToast("Error: The password must be 6 characters long or more.")
+        await common.validateToast(testData.signup.invalid_password)
     })
     it("TC_004	To verify that sign up fail", async () => {
-        await signUp.enterPassword("pass1234")
+        await signUp.enterPassword(testData.signup.password)
         await signUp.clickSignUp()
-        await common.validateToast("Error: The email address is badly formatted.")
+        await common.validateToast(testData.signup.invalid_email)
     })
 })

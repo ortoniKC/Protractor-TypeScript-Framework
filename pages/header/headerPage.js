@@ -1,4 +1,4 @@
-const { element, by } = require("protractor");
+const { element, by, browser } = require("protractor");
 
 class Header {
 
@@ -12,6 +12,7 @@ class Header {
         await this.#loginBtn.click()
     }
     async clickSignOut() {
+        await browser.sleep(5000)
         await this.#signOut.click()
     }
     async signOutIsDisplay() {

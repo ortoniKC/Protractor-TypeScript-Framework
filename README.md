@@ -14,6 +14,7 @@ Reference: An article from Browser Stack
 4. [Writing positive test case for sign up page](https://youtu.be/irDOcG1gpxA)
 5. [Writing negative test case for sign up page](https://youtu.be/IWhk2EzTi-0)
 6. [Writing positive & negative test case for login page](https://youtu.be/m6htd6fDq3M)
+7. [Read data from JSON](https://youtu.be/t2EV-Zi6wsA)
 
 - Find the complete [playlist](https://www.youtube.com/playlist?list=PL699Xf-_ilW6xWr1zQeD6Q29ffQE1jgrb)
 
