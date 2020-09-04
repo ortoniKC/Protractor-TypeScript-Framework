@@ -12,7 +12,7 @@ class Header {
         await this.#loginBtn.click()
     }
     async clickSignOut() {
-        await browser.sleep(5000)
+        // await browser.sleep(5000)
         await this.#signOut.click()
     }
     async signOutIsDisplay() {
