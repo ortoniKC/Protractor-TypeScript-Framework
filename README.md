@@ -27,6 +27,24 @@ Reference: An article from Browser Stack
 ## TODO ☑
 
 - Complete the pages from the [test page](https://www.letcode.com/test)
-- As many as you could complete that much you'll be stronger in the concepts
-- If you have any doubt join our [facebook group](https://www.facebook.com/groups/letcode), I will do my best to help you :)
 - And the most important subscribe to LetCode 😉
+
+## Support
+
+While learning it is very common to have doubts, to enhnance your learning I am ready to support you as much as I can do.
+
+1. Join our Gitter channel [Gitter](https://gitter.im/letcode-selenium/)
+2. Join our Facebook group [Facebook](https://www.facebook.com/groups/letcode)
+
+# Protractor Framework with TypeScript
+
+## Recommended to watch in the following order 🌝
+
+1. [Protractor Framework -1 With TypeSript | Protractor Tutorial | LetCode](https://youtu.be/q6KakQQNaU0)
+2. [Protractor Framework -2 With TypeSript | Protractor Tutorial | LetCode](https://youtu.be/Tt2ET2FJemM)
+3. [Protractor Framework -3 With TypeSript | Protractor Tutorial | LetCode](https://youtu.be/9kvM3K3FpE8)
+4. [Protractor Framework -4 With TypeSript | Protractor Tutorial | LetCode](https://youtu.be/Jm13i7AZZOI)
+5. [Protractor Framework -5 With TypeSript | Protractor Tutorial | LetCode](https://youtu.be/2qfRX48phnE)
+6. [Protractor Framework -6 With TypeSript | Protractor Tutorial | LetCode](https://youtu.be/es_4daCJ_MM)
+
+- [Find the playlist](https://t.ly/mWZ4)
