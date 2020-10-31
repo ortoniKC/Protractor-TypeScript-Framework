@@ -51,6 +51,10 @@ export class ProtractorBase {
             "Element is not visible");
     }
 
+    protected async inVisibilityOf(element: ElementFinder) {
+        await browser.wait(this.ec.invisibilityOf(element), this.timeOut,
+            "Element is still visible");
+    }
     public async assertTrue(element: ElementFinder) {
         await this.visibilityOf(element);
         expect(await element.isDisplayed()).toBe(true);

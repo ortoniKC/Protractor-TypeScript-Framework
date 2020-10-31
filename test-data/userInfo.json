@@ -1,7 +1,7 @@
 {
     "signup": {
         "name": "Koushik",
-        "email": "koushik@letcode.in",
+        "email": "koushik@letcode1.in",
         "password": "pass1234",
         "invalid_email": "Error: The email address is badly formatted.",
         "invalid_password": "Error: The password must be 6 characters long or more."
