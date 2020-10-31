@@ -1,4 +1,4 @@
-# Page Object Model 🙅
+# Page Object Model - JS 🙅
 
 Page Object Model, also known as POM is a design pattern in Protractor that creates an object repository for storing all web elements. It is useful in reducing code duplication and improves test case maintenance.
 
@@ -38,13 +38,46 @@ While learning it is very common to have doubts, to enhnance your learning I am 
 
 # Protractor Framework with TypeScript
 
+## Page Object Model - TS 🙅
+
 ## Recommended to watch in the following order 🌝
 
-1. [Protractor Framework -1 With TypeSript | Protractor Tutorial | LetCode](https://youtu.be/q6KakQQNaU0)
-2. [Protractor Framework -2 With TypeSript | Protractor Tutorial | LetCode](https://youtu.be/Tt2ET2FJemM)
-3. [Protractor Framework -3 With TypeSript | Protractor Tutorial | LetCode](https://youtu.be/9kvM3K3FpE8)
-4. [Protractor Framework -4 With TypeSript | Protractor Tutorial | LetCode](https://youtu.be/Jm13i7AZZOI)
-5. [Protractor Framework -5 With TypeSript | Protractor Tutorial | LetCode](https://youtu.be/2qfRX48phnE)
-6. [Protractor Framework -6 With TypeSript | Protractor Tutorial | LetCode](https://youtu.be/es_4daCJ_MM)
+Protractor Framework -1
+
+[![Protractor Framework -1](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw1.jpg)](https://youtu.be/q6KakQQNaU0)
+
+Protractor Framework -2
+
+[![Protractor Framework -2](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw2.png)](https://youtu.be/Tt2ET2FJemM)
+
+Protractor Framework -3
+
+[![Protractor Framework -3](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw3.png)](https://youtu.be/9kvM3K3FpE8)
+
+Protractor Framework -4
+
+[![Protractor Framework -4](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw4.png)](https://youtu.be/Jm13i7AZZOI)
+
+Protractor Framework -5
+
+[![Protractor Framework -5](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw5.png)](https://youtu.be/2qfRX48phnE)
+
+Protractor Framework -6
+
+[![Protractor Framework -6](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw6.png)](https://youtu.be/es_4daCJ_MM)
+
+Conversion of POM JavaScript to TypeScript - Part 1 | LetCode
+
+[![Protractor Framework -7](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw7.png)](https://youtu.be/RpqqvpFBQeo)
+
+Conversion of POM JavaScript to TypeScript - Part 2 | LetCode
+
+[![Protractor Framework -7](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw8.png)](https://youtu.be/9abQ4WOxaHo)
+
+Fixing bugs! | LetCode
+
+[![Protractor Framework -7](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/fw9.png)](https://youtu.be/9abQ4WOxaHo)
 
 - [Find the playlist](https://t.ly/mWZ4)
+
+Thanks you so much for your support, kindly subsribe to the channel & share it to others
