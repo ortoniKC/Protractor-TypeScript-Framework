@@ -2,8 +2,12 @@ let SpecReporter = require('jasmine-spec-reporter').SpecReporter;
 exports.config = {
     framework: 'jasmine',
     directConnect: true,
-    specs: ['test-ts/signin.spec.ts', 'test-ts/signup.spec.ts'],
+    specs: ["envFromArgs/env.spec.ts"],
     SELENIUM_PROMISE_MANAGER: false,
+    params: {
+        env: ""
+
+    },
     jasmineNodeOpts: {
         defaultTimeoutInterval: 60000
     },
