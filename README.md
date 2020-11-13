@@ -81,3 +81,14 @@ Fixing bugs! | LetCode
 - [Find the playlist](https://t.ly/mWZ4)
 
 Thanks you so much for your support, kindly subsribe to the channel & share it to others
+
+# Protractor TS - Tutorial
+
+60 Run Test Script in Multiple Environments - Params
+
+[![Protractor Framework -7](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/60.png)](https://youtu.be/6sgA4s_jdUc)
+
+61 Angular Locators in Proractor
+
+[![Protractor Framework -7](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/61.png)](https://youtu.be/15fzmL53EE8c)
+
