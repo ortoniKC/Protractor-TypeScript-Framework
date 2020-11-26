@@ -1,13 +1,11 @@
-import { browser } from "protractor"
+import { browser } from "protractor";
 import { Common } from "../pages-ts/common/common";
 import { Header } from "../pages-ts/header/headerPage";
 import { SignIn } from "../pages-ts/header/signInPage";
-import { SignUp } from "../pages-ts/header/signUpPage";
+import * as testData from "../test-data/userInfo.json";
 const header = new Header();
-const signUp = new SignUp();
 const common = new Common();
 const signin = new SignIn();
-import * as testData from "../test-data/userInfo.json";
 
 describe("Login - LetCode", () => {
 
@@ -16,7 +14,7 @@ describe("Login - LetCode", () => {
         await browser.manage().timeouts().implicitlyWait(10000)
     })
     beforeEach(async () => {
-        await browser.get("http://letcode.in")
+        await browser.get(browser.params.env)
         await header.clickLogin()
     })
 
@@ -25,7 +23,6 @@ describe("Login - LetCode", () => {
         await signin.enterPassword(testData.login.password)
         await signin.clickSignIn()
         await common.validateToast(testData.login.welcome_message)
-        // await browser.sleep(5000)
         await header.signOutIsDisplay()
         await header.clickSignOut()
     })

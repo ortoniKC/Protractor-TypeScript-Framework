@@ -2,11 +2,11 @@ let SpecReporter = require('jasmine-spec-reporter').SpecReporter;
 exports.config = {
     framework: 'jasmine',
     directConnect: true,
-    specs: ["angularLocators/locators.spec.ts"],
+    specs: ["test/signin.spec.js"],
     SELENIUM_PROMISE_MANAGER: false,
-    // params: {
-    //     env: ""
-    // },
+    params: {
+        env: "http://letcode.in"
+    },
     jasmineNodeOpts: {
         defaultTimeoutInterval: 60000
     },

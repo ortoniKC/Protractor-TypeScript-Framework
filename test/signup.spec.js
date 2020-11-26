@@ -21,7 +21,7 @@ describe("Sign Up - LetCode", () => {
         await browser.manage().timeouts().implicitlyWait(30000)
     })
     beforeEach(async () => {
-        await browser.get("http://localhost:4200/")
+        await browser.get(browser.params.env)
         await header.clickSignUp()
     })
     it("TC001 To verify that user can sign up successfully", async () => {

@@ -20,7 +20,7 @@ describe("Login - LetCode", () => {
         await browser.manage().timeouts().implicitlyWait(10000)
     })
     beforeEach(async () => {
-        await browser.get("http://localhost:4200/")
+        await browser.get(browser.params.env)
         await header.clickLogin()
     })
 
