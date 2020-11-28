@@ -92,3 +92,11 @@ Thanks you so much for your support, kindly subsribe to the channel & share it t
 
 [![Protractor Framework -7](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/61.png)](https://youtu.be/15fzmL53EE8c)
 
+62 NPM Run Test | Protractor Tutorialr
+
+[![runtets](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/62.png)](https://youtu.be/MuXFJQKTgCU)
+
+63 Post test - Save Allure Report | Protractor Tutorial
+
+[![savereport](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/63.png)](https://youtu.be/ZmaSsmi8Y_k)
+
