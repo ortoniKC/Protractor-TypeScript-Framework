@@ -1,3 +1,4 @@
+[![Gitter](https://badges.gitter.im/letcode-selenium/community.svg)](https://gitter.im/letcode-selenium/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # Page Object Model - JS 🙅
 
 Page Object Model, also known as POM is a design pattern in Protractor that creates an object repository for storing all web elements. It is useful in reducing code duplication and improves test case maintenance.
@@ -29,7 +30,7 @@ Reference: An article from Browser Stack
 - Complete the pages from the [test page](https://www.letcode.com/test)
 - And the most important subscribe to LetCode 😉
 
-## Support
+## Support [![Gitter](https://badges.gitter.im/letcode-selenium/community.svg)](https://gitter.im/letcode-selenium/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 While learning it is very common to have doubts, to enhnance your learning I am ready to support you as much as I can do.
 
