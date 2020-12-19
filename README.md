@@ -103,5 +103,9 @@ Thanks you so much for your support, kindly subsribe to the channel & share it t
 
 64 Git & Jenkins | Protractor Tutorial
 
-[![jenkins](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/63.png)](https://youtu.be/Bh5t8UwbeiA)
+[![jenkins](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/64.png)](https://youtu.be/Bh5t8UwbeiA)
+
+65 Jenkins Slack Notification | Protractor Tutorial
+
+[![jenkins-slack](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/65.png)](https://youtu.be/QvMCIw5HEzA)
 
