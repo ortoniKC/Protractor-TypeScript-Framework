@@ -113,4 +113,8 @@ Thanks you so much for your support, kindly subsribe to the channel & share it t
 
 [![calendar](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/66.png)](https://youtu.be/WABPZ29p5Hw)
 
+67 Allure Step By Step Report Like Extent Report | Protractor Tutorial 
+
+[![calendar](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/67.png)](https://youtu.be/859aMV83Apg)
+
 

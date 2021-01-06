@@ -4,7 +4,7 @@ import { protractor } from "protractor/built/ptor";
 export class ProtractorBase {
 
     private ec: ProtractorExpectedConditions = browser.ExpectedConditions;
-    private timeOut = 30000;
+    private timeOut = 10000;
 
 
     /**

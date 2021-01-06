@@ -2,7 +2,7 @@ let SpecReporter = require('jasmine-spec-reporter').SpecReporter;
 exports.config = {
     framework: 'jasmine',
     directConnect: true,
-    specs: ["test/signin.spec.js"],
+    specs: ["test-ts/signin.spec.ts"],
     SELENIUM_PROMISE_MANAGER: false,
     params: {
         env: "http://letcode.in"
