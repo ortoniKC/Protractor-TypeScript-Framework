@@ -8,6 +8,7 @@
     "@types/jasminewd2": "^2.0.8",
     "@types/node": "^13.13.8",
     "allure-commandline": "^2.13.0",
+    "faker": "^5.1.0",
     "jasmine": "^3.6.1",
     "jasmine-allure-reporter": "^1.0.2",
     "jasmine-spec-reporter": "^4.2.1",

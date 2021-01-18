@@ -117,4 +117,8 @@ Thanks you so much for your support, kindly subsribe to the channel & share it t
 
 [![calendar](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/67.png)](https://youtu.be/859aMV83Apg)
 
+68 Faker - Test Data | Protractor Tutorial 
+
+[![calendar](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/68.png)](https://youtu.be/oR4Ch_Q7HNk)
+
 
