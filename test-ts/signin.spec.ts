@@ -41,19 +41,19 @@ describe("Login - LetCode", () => {
         })();
     })
 
-    // it("TC_006	To verify that login fails", async () => {
-    //     await signin.enterEmail(testData.login.email)
-    //     await signin.enterPassword(testData.login.wrong_password)
-    //     await signin.clickSignIn()
-    //     await common.validateToast(testData.login.invalid_password)
-    // })
+    it("TC_006	To verify that login fails", async () => {
+        await signin.enterEmail(testData.login.email)
+        await signin.enterPassword(testData.login.wrong_password)
+        await signin.clickSignIn()
+        await common.validateToast(testData.login.invalid_password)
+    })
 
-    // it("TC_007	To verify that login fails", async () => {
-    //     await signin.enterEmail("koushik@let")
-    //     await signin.enterPassword(testData.login.password)
-    //     await signin.clickSignIn()
-    //     await common.validateToast(testData.login.invalid_email)
-    // })
+    it("TC_007	To verify that login fails", async () => {
+        await signin.enterEmail("koushik@let")
+        await signin.enterPassword(testData.login.password)
+        await signin.clickSignIn()
+        await common.validateToast(testData.login.invalid_email)
+    })
 
 })
 

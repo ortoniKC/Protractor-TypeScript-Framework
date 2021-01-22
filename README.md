@@ -121,4 +121,12 @@ Thanks you so much for your support, kindly subsribe to the channel & share it t
 
 [![calendar](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/68.png)](https://youtu.be/oR4Ch_Q7HNk)
 
+69 Share Allure report | Protractor Tutorial 
+
+[![calendar](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/69.png)](https://youtu.be/tFyhIa6JWbY)
+
+70 How To Read Browser Logs | Protractor Tutorial 
+
+[![calendar](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/70.png)](https://youtu.be/PzHoc3ezUtM)
+
 
