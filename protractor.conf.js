@@ -1,5 +1,9 @@
 let SpecReporter = require('jasmine-spec-reporter').SpecReporter;
+const failFast = require('protractor-fail-fast');
 exports.config = {
+    plugins: [
+        failFast.init(),
+    ],
     framework: 'jasmine',
     directConnect: true,
     specs: ["test-ts/signin.spec.ts"],
@@ -48,6 +52,9 @@ exports.config = {
                 done();
             })
         });
+    },
+    afterLaunch: function () {
+        failFast.clean(); // Removes the fail file once all test runners have completed.
     }
 }
 

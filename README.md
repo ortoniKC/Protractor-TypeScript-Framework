@@ -129,4 +129,8 @@ Thanks you so much for your support, kindly subsribe to the channel & share it t
 
 [![calendar](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/70.png)](https://youtu.be/PzHoc3ezUtM)
 
+71 It's Ok To Fail | Protractor Tutorial 
+
+[![fast-fail](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/71.png)](https://youtu.be/PzHoc3ezUtM)
+
 
