@@ -133,4 +133,8 @@ Thanks you so much for your support, kindly subsribe to the channel & share it t
 
 [![fast-fail](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/71.png)](https://youtu.be/PzHoc3ezUtM)
 
+72 Exception Handling in Protractor | Protractor Tutorial 
+
+[![fast-fail](https://raw.githubusercontent.com/ortoniKC/Protractor-YT/images/protractor/72.png)](https://youtu.be/PzHoc3ezUtM)
+
 
